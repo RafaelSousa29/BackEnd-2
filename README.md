@@ -19,6 +19,6 @@ Implementação e uso de middlewares em aplicações Node.js. Inclui exemplos de
 ### ✅ Camadas padrões de projeto
 Estruturação de projetos seguindo camadas padrão (controllers, services, repositories). Inclui exemplos de organização e boas práticas.
 
-### 🟠 Migrando o projeto para TypeScript
+### ✅ Migrando o projeto para TypeScript
 Processo de migração de um projeto JavaScript para TypeScript. Inclui configuração inicial, tipos básicos e refatoração de código existente.
 
