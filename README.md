@@ -7,8 +7,8 @@ Este repositório contém exemplos e códigos relacionados a diversos tópicos d
 ### ✅ Conectando no banco de dados - ORM/Sequelize
 Implementação de conexão com o banco de dados utilizando ORM/Sequelize. Inclui exemplos de configuração e operações básicas de CRUD.
 
-### ✅ Autenticação JWT
-Exemplos de autenticação utilizando JSON Web Tokens (JWT). Inclui geração de tokens, verificação e proteção de rotas.
+### ✅ Autenticação GoogleAuth
+Exemplos de autenticação utilizando GoogleAuth. Inclui configuração do Google Authenticator, geração de códigos de verificação e proteção de rotas.
 
 ### ✅ APIs Externas
 Integração com APIs externas. Exemplos de chamadas a APIs RESTful e manipulação de respostas.
